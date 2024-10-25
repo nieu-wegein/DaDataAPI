@@ -17,12 +17,11 @@ DaData API представляет собой веб-сервис для пол
 
 `GET`
 
-
 *  **URL Params**
  
 `adress=[string]`
 
-* **Response**
+* **Response example**
 
 ```
 {
